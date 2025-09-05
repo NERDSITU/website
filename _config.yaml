@@ -9,7 +9,7 @@ proofer: false
 # site social media and other links
 links:
   email: luai@itu.dk
-  mastodon: @nerdsitu@datasci.social
+  mastodon: nerdsitu@datasci.social
   bluesky: nerdsitu.bsky.social
   github: NERDSITU
 
